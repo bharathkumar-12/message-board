@@ -325,3 +325,9 @@ For issues, questions, or contributions, please open an issue in the repository.
 ---
 
 **Built with Django 🎸 | Powered by Python 🐍**
+
+---
+
+## Maintenance
+
+Last maintenance update: <!--LAST_UPDATED-->2026-05-19<!--/LAST_UPDATED-->
