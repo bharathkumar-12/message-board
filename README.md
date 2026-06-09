@@ -330,4 +330,4 @@ For issues, questions, or contributions, please open an issue in the repository.
 
 ## Maintenance
 
-Last maintenance update: <!--LAST_UPDATED-->2026-05-30<!--/LAST_UPDATED-->
+Last maintenance update: <!--LAST_UPDATED-->2026-06-09<!--/LAST_UPDATED-->
